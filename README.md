@@ -1,3 +1,44 @@
+# Assalamualaikum Warahmatullahi Wabarakatuh
+
+### Saya Muhamad Ubaydillah
+
+### Izin mengumpulkan TES INTERNSHIP PROJECT YAYASAN HASNUR CENTRE DIVISI WEB DEVELOPER DIGITALIZ
+
+Teknologi yang saya gunakan pada pembuatan aplikasi web ini yaitu laravel, MySQL dan Tailwind. Pada website courses ini bisa melakukan aktivatas seperti membuat course, edit course, dan juga delete. begitu juga ketika kita sudah mempunyai course yg dibuat kita bisa memasukan material pada course tersebut seperti membuat, mengedit dan juga delete. adapun feature tambahan yang saya implementasikan seperti searching dan juga pagination.
+
+Terima kasih,
+
+Best Regards,
+Muhamad Ubaydillah ( 20200801249 )
+
+## Berikut adalah screenshoot pada website yang telah dibuat
+
+## 1. Homepage
+
+![Screenshot Aplikasi](screenshoot/home1.png)
+
+## 2. Course detail page
+
+![Screenshot Aplikasi](screenshoot/course-detail.png)
+
+## 3. Add course page
+
+![Screenshot Aplikasi](screenshoot/create-new-course.png)
+
+## 4. Edit course page
+
+![Screenshot Aplikasi](screenshoot/course-edit.png)
+
+## 5. Add Material page
+
+![Screenshot Aplikasi](screenshoot/create-new-material.png)
+
+## 6. Edit Material page
+
+![Screenshot Aplikasi](screenshoot/edit-material.png)
+
+===
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -11,13 +52,13 @@
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+-   [Simple, fast routing engine](https://laravel.com/docs/routing).
+-   [Powerful dependency injection container](https://laravel.com/docs/container).
+-   Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+-   Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+-   Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+-   [Robust background job processing](https://laravel.com/docs/queues).
+-   [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
@@ -35,19 +76,19 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+-   **[Vehikl](https://vehikl.com/)**
+-   **[Tighten Co.](https://tighten.co)**
+-   **[WebReinvent](https://webreinvent.com/)**
+-   **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+-   **[64 Robots](https://64robots.com)**
+-   **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
+-   **[Cyber-Duck](https://cyber-duck.co.uk)**
+-   **[DevSquad](https://devsquad.com/hire-laravel-developers)**
+-   **[Jump24](https://jump24.co.uk)**
+-   **[Redberry](https://redberry.international/laravel/)**
+-   **[Active Logic](https://activelogic.com)**
+-   **[byte5](https://byte5.de)**
+-   **[OP.GG](https://op.gg)**
 
 ## Contributing
 
